@@ -70,7 +70,7 @@ A fun logic-based arcade-style game implementing basic mechanics and obstacles t
 ## 📬 Contact
 
 - 📧 Email: mouhab.douzi01@gmail.com  
-- 💼 LinkedIn: [Mouhab Douzi](https://www.linkedin.com/in/mouhab-douzi)  
+- 💼 LinkedIn: [Mouhab Douzi](https://www.linkedin.com/in/mouhab-douzi-5b507829a/) 
 - 🌐 Portfolio: [MouhabDouzi.github.io](https://MouhabDouzi.github.io)
 
 ---
