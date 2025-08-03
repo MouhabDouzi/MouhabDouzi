@@ -20,7 +20,7 @@ A machine learning project designed to assess the security of CAPTCHA systems by
 - **Technologies:** Python, TensorFlow, Computer Vision, Gradio, Selenium
 - **Status:** Internship Project @ Primatec / KPIT (Ongoing)
 
-### 🌍 TravelPlanner AI Website
+### 🌍 ISS2: TravelPlanner AI Website
 A personalized travel assistant that helps users generate trip plans based on their preferences, budget, and location filters. Designed to enhance the decision-making process through a user-friendly web interface.
 
 - **Technologies:** Python, Flask, HTML/CSS, JavaScript
